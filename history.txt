@@ -1,0 +1,110 @@
+2022-04-27 01:12:11.299175
+total object detected= 21
+Tareted object detected = 8
+******************************
+
+2022-04-27 01:12:12.016793
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:12.611797
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:13.217644
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:13.718817
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:14.207020
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:14.687745
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:15.176748
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:15.673420
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:16.156169
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:16.619761
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:17.123384
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:17.635541
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:18.012233
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:18.430658
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:18.820615
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:19.517265
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:20.069848
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:20.544578
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:20.958984
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:21.424840
+total object detected= 0
+Tareted object detected = 0
+******************************
+
+2022-04-27 01:12:22.052221
+total object detected= 0
+Tareted object detected = 0
+******************************
+
